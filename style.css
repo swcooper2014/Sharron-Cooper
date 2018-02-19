@@ -1,0 +1,36 @@
+h1,h2,h3,h4,h5,h6 {font-family: 'Marck Script', cursive}
+
+.w3-row-padding img {margin-bottom: 12px}
+
+.w3-sidebar {width: 120px;
+	background: #222;}
+
+#main {margin-left: 120px}
+
+.w3-dark-grey {
+	height:28px;
+	width:95%
+}
+
+hr {
+
+	width:200px;
+}
+
+img {
+
+
+	width:100%;
+}
+
+
+
+.profilepic {
+
+	width: 250px;
+ 	height: 250px;
+}
+
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+
+
